@@ -2,7 +2,7 @@ FROM tutum/lamp:latest
 MAINTAINER 	GaoKun <634834595@qq.com>
 
 ENV DEBIAN_FRONTEND noninteractive
-ENV VERSION 1.0.1
+ENV VERSION 1.0.2
 
 # Preparation
 RUN \
